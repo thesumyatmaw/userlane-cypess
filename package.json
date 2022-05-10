@@ -1,0 +1,17 @@
+{
+  "name": "userlane-cypess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  },
+  "dependencies": {
+    "2captcha": "^3.0.4"
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "baseUrl" : "https://www.userlane.com/careers/",
+    "ignoreTestFiles" : ["**/1-getting-started/*", "**/2-advanced-examples/*"],
+    "defaultCommandTimeout": 180000
+}
